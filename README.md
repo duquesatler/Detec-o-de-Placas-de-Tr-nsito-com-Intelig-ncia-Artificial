@@ -66,6 +66,8 @@ Realize o treinamento e avalie os resultados.
 
 Teste a detecção utilizando novas imagens.
 
+* COntém 3 versões diferentes do modelo disponíveis nos arquivos.
+
 Contato
 
 Pedro Duques Satler📧 E-mail: pedrinhosatler@gmail.com
